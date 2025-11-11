@@ -1,6 +1,6 @@
 # 愿景
 
-基于黑客松比赛中的demo产品[OPS-agent](https://github.com/yangrudan/OPS-agent), 秉承初心，在自己力所能及的范围内将它推进成熟（也欢迎志同道合之士的加入，共建共商）。
+基于超级智能体 Campathon比赛中的作品[OPS-agent](https://github.com/yangrudan/OPS-agent), 秉承初心，在自己力所能及的范围内将它推进成熟（也欢迎志同道合之士的加入，共建共商）。
 
 - 接入更多智能硬件；
 - 丰富和合理规划长短期记忆模块；
